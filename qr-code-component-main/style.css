@@ -1,0 +1,37 @@
+
+    .attribution { font-size: 15px; text-align: center;font-weight:  700; font-family: Outfit, sans-serif;
+        src: "https://fonts.google.com/specimen/Outfit" ;  margin: 2.5rem;
+       }
+        .attribution a { color: hsl(228, 45%, 44%); }
+        .scan{font-size: x-small ;text-align: center;font-weight: 400;    }
+    
+    
+        
+        img {
+          width: 100%;
+          border-radius: 1rem;
+            display: block;
+            margin: auto; 
+        }
+      
+         body 
+         {
+           display: grid;
+           place-items: center;
+           height: 100vh;
+          background-color: hsl(212, 45%, 89%); 
+        }
+      .box {
+       margin: 10rem;
+       padding: 1.2rem;
+       background: rgb(255, 255, 255);
+        border-radius: 1rem;
+        max-width: 210px;
+        box-shadow: 0px 11px 20px 16px var(--box-shadow);
+        max-width: 250px;
+       
+               
+      }
+     
+      
+         
