@@ -8,7 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
--
+  - [Overview].(#Overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -20,7 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
-
+### Overview
+This is a front end mentor challenge made with Html and Css.The goal is to make it look like the design preview.  You can also reach out and tell me where i made mistakes and where i can change.
 
 
 ### Screenshot
